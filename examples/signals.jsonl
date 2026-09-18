@@ -1,0 +1,2 @@
+{"database_replica_lag_s": 8, "backup_verified": true, "error_budget": 0.74, "kubernetes_ready": 1.0, "change_approved": true}
+{"database_replica_lag_s": 93, "backup_verified": false, "error_budget": 0.12, "kubernetes_ready": 0.96, "change_approved": true}
